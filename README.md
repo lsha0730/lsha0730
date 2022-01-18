@@ -5,8 +5,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know a couple of card tricks!
 
-## Most Recent Projects
-<h4>Pitch.ai (nwHacks 2022)<h4>
+## Most Recent Projects ##
+<h3>Pitch.ai (nwHacks 2022)<h3>
 <ul>
   <li>🏆 First Place</li>
   <li>🏆 OpenAI Sponsor Award</li>
@@ -18,7 +18,7 @@
 <a href="https://devpost.com/software/pitch-ai">Devpost</a> | <a href="https://github.com/underHA/nwhacks-2022/">Github Repo</a>
 
 
-<h4>Eyelexa Reading Assistant (Hackcamp 2021)<h4>
+<h3>Eyelexa Reading Assistant (Hackcamp 2021)<h3>
 <ul>
   <li>🏆 Most Creative UI/UX</li>
   <li>An image-to-speech web app for the blind, made with accessibility needs in mind.</li>
