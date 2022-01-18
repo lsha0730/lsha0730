@@ -1,16 +1,24 @@
 ### Hi there 👋
+- 🔭 I’m currently working on: a super secret React.js & Firebase web app 🧐
+- 🌱 I’m currently learning: Firebase
+- 📫 How to reach me: Lsha0730@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I know a couple of card tricks!
 
-<!--
-**lsha0730/lsha0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Most Recent Projects
+#Pitch.ai (nwHacks 2022)
+ -  🏆 First Place
+ -  🏆 OpenAI Sponsor Award
+ -  Open the web app and just start talking! Pitch.ai will listen to you speak and in real-time, generate a slideshow to match your speech content.
+ -  Built using: React.js, Flask, Javascript, MonkeyLearn Keyword API, OpenAI's GPT-3 API, SerpAPI's Google Image Search API
+ -  I mostly worked on the front end of the project using React.js/JSX/JS/CSS
 
-Here are some ideas to get you started:
+<a href="https://devpost.com/software/pitch-ai">Devpost</a> | <a href="https://github.com/underHA/nwhacks-2022/">Github Repo</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Eyelexa Reading Assistant (nwHacks 2022)
+ -  🏆 Most Creative UI/UX
+ -  An image-to-speech web app for the blind, made with accessibility needs in mind.
+ -  Built using: React.js, Express.js, Google Cloud API
+ -  I mostly worked on the front end of the project using React.js/JSX/JS/CSS
+
+<a href="https://devpost.com/software/eyelexa-reading-assistant">Devpost</a> | <a href="https://github.com/underHA/hackcamp-2021/">Github Repo</a>
