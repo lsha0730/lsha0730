@@ -6,7 +6,7 @@
 - ⚡ Fun fact: If you like getting disappointed bring me a basketball and I'll show you why I never made it to the NBA 🏀
 
 ## Most Recent Projects
-### Digital Directive System (Most recent code sample)
+### Digital Directive System (Most recent code sample, work in progress!)
 <ul>
   <li>✒️ Full-stack app to streamline Model UN voting procedures and the collection of speaker analytics for event staff</li>
   <li>Solo project built on Firebase, React.js, HTML, CSS, Javascript</li>
