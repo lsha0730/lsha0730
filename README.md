@@ -1,5 +1,5 @@
 ## Nice to meet you! 👋
-- 🔭 I’m currently working on: a super secret React.js & Firebase web app 🧐
+- 🔭 I’m currently working on: Digital Directive System & Euphony!
 - 🌱 I’m currently learning: Database Management
 - 📫 How to reach me: Lsha0730@gmail.com
 - 😄 Pronouns: he/him
