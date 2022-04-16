@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning: Database Management
 - 📫 How to reach me: Lsha0730@gmail.com
 - 😄 Pronouns: he/him
+- 🛠️ My toolbelt: HTML, CSS, Javascript, Typescript, Python, R, Java, C, React.js, React Native, Firebase, Node.js, Express.js, Git, OOP, JUnit Testing, Figma, Photoshop
 - ⚡ Fun fact: If you like getting disappointed bring me a basketball and I'll show you why I never made it to the NBA 🏀
 
 ## Most Recent Projects
