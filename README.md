@@ -9,7 +9,7 @@
 ## Most Recent Projects
 ### Digital Directive System (Most recent code sample, WIP)
 <ul>
-  <li>✒️ Full-stack app to streamline Model UN voting procedures and the collection of speaker analytics for event staff</li>
+  <li>✒️ Full-stack web app to streamline Model UN voting procedures and the collection of speaker analytics for event staff</li>
   <li>Solo project built on Firebase, React.js, HTML, CSS, Javascript</li>
   <li>Minimized data transfer within Firebase by custom engineering an optimal data structure</li>
   <li>Leveraged past event staff feedback and a low-tech beta deployment to collect UI/UX design feedback</li>
