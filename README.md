@@ -7,7 +7,7 @@
 - ⚡ Fun fact: If you like getting disappointed bring me a basketball and I'll show you why I never made it to the NBA 🏀
 
 ## Most Recent Projects
-### Digital Directive System (Most recent code sample, WIP)
+### MUNSuite.com (Most recent code sample, In Private Beta)
 <ul>
   <li>✒️ Full-stack web app to streamline Model UN voting procedures and the collection of speaker analytics for event staff</li>
   <li>Solo project built on Firebase, React.js, HTML, CSS, Javascript</li>
@@ -15,6 +15,7 @@
   <li>Leveraged past event staff feedback and a low-tech beta deployment to collect UI/UX design feedback</li>
 </ul>
 
+<a href="https://munsuite.com">Check it out!</a>
 <a href="https://github.com/lsha0730/digital-directive-system">Github Repo</a>
 
 ### Pitch.ai (nwHacks 2022)
