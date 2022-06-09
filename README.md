@@ -7,7 +7,7 @@
 - ⚡ Fun fact: If you like getting disappointed bring me a basketball and I'll show you why I never made it to the NBA 🏀
 
 ## Most Recent Projects
-### MUNSuite.com (Most recent code sample, In Private Beta)
+### MUNSuite.com (Most recent code sample, In private beta)
 <ul>
   <li>✒️ Full-stack web app to streamline Model UN voting procedures and the collection of speaker analytics for event staff</li>
   <li>Solo project built on Firebase, React.js, HTML, CSS, Javascript</li>
