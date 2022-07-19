@@ -1,5 +1,5 @@
 ## Nice to meet you! 👋
-- 🔭 I’m currently working on: Internship at <a href="https://radix.bio">Radix Labs!</a>
+- 🔭 I’m currently working on: SWE Internship at <a href="https://radix.bio">Radix Labs!</a>
 - 🌱 I’m currently learning: Database Management
 - 📫 How to reach me: Lsha0730@gmail.com
 - 😄 Pronouns: he/him
