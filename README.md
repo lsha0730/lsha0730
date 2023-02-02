@@ -9,9 +9,7 @@
 ### MUNSuite.com (Most recent code sample, In private beta)
 <ul>
   <li>✒️ Full-stack web app to streamline Model UN voting procedures and the collection of speaker analytics for event staff</li>
-  <li>Solo project built on Express.js, React.js, Typescript, Firebase, Node.js</li>
-  <li>Minimized database transactions by custom engineering a flat data structure and O(1) data access</li>
-  <li>Leveraged past event staff feedback and a low-tech beta deployment to collect UI/UX design feedback</li>
+  <li>3,000 users internationally across several European conferences and all major BC Model UN organizations</li>
 </ul>
 
 <a href="https://munsuite.com">Check it out!</a>
