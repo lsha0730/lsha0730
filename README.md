@@ -1,6 +1,6 @@
 ## Nice to meet you! 👋
 - 🔭 I’m currently working on: SWE Internship at <a href="https://radix.bio">Radix Labs!</a>
-- 🌱 I’m currently learning: Database Management
+- 🌱 I’m currently learning: Distributed Systems (I'm building my own database!)
 - 📫 How to reach me: Lsha0730@gmail.com
 - 🛠️ My toolbelt: React.js, Typescript, Node.js, Express.js, Firebase, Python, R, Java, C++, React Native, Git, OOP, JUnit Testing, Figma, Photoshop
 - ⚡ Fun fact: If you like getting disappointed bring me a basketball and I'll show you why I never made it to the NBA 🏀
