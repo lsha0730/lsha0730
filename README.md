@@ -2,15 +2,22 @@
 - 🔭 I’m currently working on: SWE Internship at <a href="https://radix.bio">Radix Labs!</a>
 - 🌱 I’m currently learning: Distributed Systems (I'm building my own database!)
 - 📫 How to reach me: Lsha0730@gmail.com
-- 🛠️ My toolbelt: React.js, Typescript, Node.js, Express.js, Firebase, Python, R, Java, C++, React Native, Git, OOP, JUnit Testing, Figma, Photoshop
+- 🛠️ Languages: JavaScript/TypeScript, Python, Java, C, C++, Golang, SQL, HTML, CSS
+- 🛠️ Frameworks: React.js, Node.js, Express.js, Firebase, React Native, GraphQL, Gin
+- 🛠️ Tools & Testing: Git, JUnit, Chai, Mocha, Golang testing, Figma, Stripe, SendGrid, TailwindCSS
 - ⚡ Fun fact: If you like getting disappointed bring me a basketball and I'll show you why I never made it to the NBA 🏀
 
 ## Most Recent Projects
-### MUNSuite.com (Most recent code sample, In private beta)
+### LycheeDB (WIP!)
+<ul>
+  <li>🍓 From-scratch implementation of a nested JSON object tree database in Golang</li>
+</ul>
+
+### MUNSuite.com
 <ul>
   <li>✒️ Full-stack web app to streamline Model UN voting procedures and the collection of speaker analytics for event staff</li>
-  <li>🌐 3,000 users internationally across several European conferences and all major BC Model UN organizations</li>
-  <li>Solo-built on React.js, Express.js, Node.js, TypeScript, Firebase, Stripe, SendGrid, Figma</li>
+  <li>🌐 3,000 users internationally across Canada (every major BC conference), USA, and Europe</li>
+  <li>Solo-built from-scratch on React.js, Express.js, Node.js, TypeScript, Firebase, Stripe, SendGrid, Figma</li>
 </ul>
 
 <a href="https://munsuite.com">Check it out!</a>
