@@ -36,7 +36,7 @@
 ### Pitch.ai (nwHacks 2022)
 <ul>
   <li>🏆 First Place among 122 projects</li>
-  <li>🏆 OpenAI Sponsor Award</li>
+  <li>🏆 OpenAI Award</li>
   <li>A web-app that leverages AI to auto-generate real-time presentations from presenter audio input</li>
   <li>Built using: React.js, Flask, JavaScript, MonkeyLearn Keyword API, OpenAI's GPT-3 API, SerpAPI's Google Image Search API</li>
   <li>I worked on the frontend/UI, schemed the broad API and data communication architecture, and ideated the project and pitch</li>
@@ -44,6 +44,15 @@
 
 <a href="https://devpost.com/software/pitch-ai">Devpost</a> | <a href="https://github.com/underHA/nwhacks-2022/">Github Repo</a>
 
+### Chatif.ai (Produhacks 2023)
+<ul>
+  <li>🏆 Most Technically Complex</li>
+  <li>🏆 SAP Award</li>
+  <li>A scalable way to train GPT-3 on your own data without training a custom model. Chatif.ai scrapes an entire website, parses its content into a database, then answers questions using AI-powered tree traversal.</li>
+  <li>Built using: Next.js, Node.js, TypeScript, OpenAI's GPT-3.5 API, Vercel, Apify API, Firebase</li>
+</ul>
+
+<a href="https://devpost.com/software/chatif-ai">Devpost</a>
 
 ### Eyelexa Reading Assistant (Hackcamp 2021)
 <ul>
