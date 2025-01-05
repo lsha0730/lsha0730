@@ -1,5 +1,5 @@
 ## Nice to meet you! 👋
-- 🔭 I’m currently working on: SWE Internship at <a href="https://radix.bio">Radix Labs!</a>
+- 🔭 I’m currently working on: Founding Engineer at <a href="https://datacurve.ai">Datacurve AI</a>
 - 🌱 I’m currently learning: Distributed Systems (I'm building my own database!)
 - 📫 How to reach me: Lsha0730@gmail.com
 - 🛠️ Languages: JavaScript/TypeScript, Python, Java, C, C++, Golang, SQL, HTML, CSS
