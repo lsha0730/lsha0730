@@ -1,6 +1,6 @@
 ## Nice to meet you! 👋
-- 🔭 I’m currently working on: Founding Engineer at <a href="https://datacurve.ai">Datacurve AI</a>
-- 🌱 I’m currently learning: Distributed Systems (I'm building my own database!)
+- 🔭 I’m currently working on: C++ Web-framework for Express.js devs
+- 🌱 I’m currently learning: Low-level programming
 - 📫 How to reach me: Lsha0730@gmail.com
 - 🛠️ Languages: JavaScript/TypeScript, Python, Java, C, C++, Golang, SQL, HTML, CSS
 - 🛠️ Frameworks: React.js, Node.js, Express.js, Firebase, React Native, GraphQL, Gin
@@ -8,11 +8,6 @@
 - ⚡ Fun fact: If you like getting disappointed bring me a basketball and I'll show you why I never made it to the NBA 🏀
 
 ## Most Recent Projects
-### LycheeDB (WIP!)
-<ul>
-  <li>🍓 From-scratch implementation of a nested JSON object tree database in Golang</li>
-</ul>
-
 ### MUNSuite.com
 <ul>
   <li>✒️ Full-stack web app to streamline Model UN voting procedures and the collection of speaker analytics for event staff</li>
