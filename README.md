@@ -1,11 +1,11 @@
 ## Nice to meet you! 👋
-- 🔭 I’m currently working on: C++ Web-framework for Express.js devs
+- 🔭 I’m currently working on: Flash, a C++ Web-framework for Express.js devs
 - 🌱 I’m currently learning: Low-level programming
 - 📫 How to reach me: Lsha0730@gmail.com
-- 🛠️ Languages: JavaScript/TypeScript, Python, Java, C, C++, Golang, SQL, HTML, CSS
+- 🛠️ Languages: JavaScript/TypeScript, Python, Java, C, C++, SQL, HTML, CSS
 - 🛠️ Frameworks: React.js, Node.js, Express.js, Firebase, React Native, GraphQL, Gin
 - 🛠️ Tools & Testing: Git, JUnit, Chai, Mocha, Golang testing, Figma, Stripe, SendGrid, TailwindCSS
-- ⚡ Fun fact: If you like getting disappointed bring me a basketball and I'll show you why I never made it to the NBA 🏀
+- ⚡ Fun fact: I've installed networking hardware inside the DMZ, within shouting distance from North Korean soldiers 🪖
 
 ## Most Recent Projects
 ### MUNSuite.com
