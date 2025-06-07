@@ -1,5 +1,5 @@
 ## Nice to meet you! 👋
-- 🔭 I’m currently working on: Flash, a C++ Web-framework for Express.js devs
+- 🔭 I’m currently working on: Express.cpp, a C++ Web-framework for Express.js devs
 - 🌱 I’m currently learning: Low-level programming
 - 📫 How to reach me: Lsha0730@gmail.com
 - 🛠️ Languages: JavaScript/TypeScript, Python, Java, C, C++, SQL, HTML, CSS
@@ -58,12 +58,3 @@
 </ul>
 
 <a href="https://devpost.com/software/eyelexa-reading-assistant">Devpost</a> | <a href="https://github.com/underHA/hackcamp-2021/">Github Repo</a>
-
-### Euphony (UBC Launch Pad)
-<ul>
-  <li>🎧 A mobile app that uses machine-learning to curate custom Spotify playlists</li>
-  <li>I contribute to the Typescript + React Native front end of the project to make pixel-perfect translations of mockups to functioning code!</li>
-  <li>Git to handle code branching/merges on a 10 person development team</li>
-</ul>
-
-<a href="https://github.com/ubclaunchpad/spotify-gen">Github Repo</a>
